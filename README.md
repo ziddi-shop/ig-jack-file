@@ -31,8 +31,8 @@ https://github.com/ziddi-shop/ig-jack-file.git
 # For Any kind of Help 
 
 
-Contact me On Mail      :  <li>shehzadakingziddi@gmail.com   </li> 
-Or On Social media 
+Contact me 
+ On Social media 
   <li>
 <a href="https://t.me/ziddi_shop"> 
 More Tools </a>
