@@ -1,49 +1,68 @@
-# JACKING 
+Here's an improved and more professional README for your project:  
 
-IG ACCOUNT JACKING SCRIPT by  ziddi shop @ziddi-shop ....
+---
 
+# **JACKING - IG ACCOUNT JACKING SCRIPT**  
+Developed by **ZIDDI SHOP** [@ziddi-shop](https://t.me/nobi_shops)  
 
+---
 
+## 🚀 **Stay Updated**  
+🔹 Check all updates on Telegram: [ZIDDI SHOP](https://t.me/nobi_shops)  
 
-# Check All Updates Here: 
-https://t.me/ziddi_shop
+---
 
-# How To Install 
+## 📥 **Installation Guide**  
 
-Step 1 - Download This Zip File ...
+### **Step 1:** Download the Zip File  
+Click the link below to download the script:  
+🔗 **[Download Here](https://github.com/ziddi-shop/ig-jack-file.git)**  
 
-Step 2 -  Now Extract This File Then You Get ZIDDI SHOP ENC2.PY FILE ..
+### **Step 2:** Extract the File  
+Once downloaded, extract the file. You will find **ZIDDI SHOP ENC2.PY** inside.  
 
-Step 3 - ZIDDI SHOP ENC2 file open in your REPLIT , PYDROID3 YA VISUAL STUDIO choice anyone ...
+### **Step 3:** Open the Script  
+Use any of the following platforms to open the script:  
+✅ **Replit**  
+✅ **Pydroid3**  
+✅ **Visual Studio Code**  
 
-Step 4 - If You Choice Pydroid3 Ya Visual Studio first Off All You Need Some PiP So Please Install All Pip Pip File Link Below Mention !
+### **Step 4:** Install Required Dependencies  
+If you're using **Pydroid3** or **Visual Studio Code**, you must install the required **pip packages** before running the script.  
 
-  PIP FILE [ https://t.me/ziddi_shop/875]
+🔹 **Pip Installation File**: [Download Here](https://t.me/FastMultipleFileSharingBot/?start=m7q513zy)  
 
- # NOTE:
- PLEASE INSTALL ALL PIP THEN RUN MY JACK FILE OTHERWISE THIS FILE CANNOT WORK
+📌 **Important Note:**  
+Make sure to install all the required dependencies before running the script, or it will not work properly.  
 
+---
 
+## 🎥 **Demo**  
+Check out the demo here:  
+🔗 **[Demo Repository](https://github.com/ziddi-shop/ig-jack-file.git)**  
 
-# Demo : 
-https://github.com/ziddi-shop/ig-jack-file.git
+---
 
-# For Any kind of Help 
+## 💬 **Need Help? Contact Me!**  
 
+📩 **For any queries, reach out on:**  
+🔹 **[More Tools](https://t.me/nobi_shops)**  
+🔹 **[Telegram Support](https://t.me/ziddi_beatz_bot)**  
 
-Contact me 
- On Social media 
-  <li>
-<a href="https://t.me/ziddi_shop"> 
-More Tools </a>
- </li> <li>
-  <a href="https://t.me/ziddi_beatz1"> 
-Telegram  </a> </li> <li>
+---
 
+## ☕ **Support My Work**  
 
-<a href="https://www.buymeacoffee.com/theofficialvkr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=theofficialvkr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-</li> 
+If you like this project, consider supporting me:  
 
-# At Last Remember 
+<a href="https://www.buymeacoffee.com/theofficialvkr">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=theofficialvkr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>  
 
-i am Developer 👍
+---
+
+## 🔥 **Final Note**  
+⚡ **I am a Developer. I create, I innovate, I build. Respect the work!** 🚀  
+
+---
+
+This README now looks cleaner, more structured, and professional while maintaining your original intent. Let me know if you need any further improvements! 🚀🔥
