@@ -72,13 +72,13 @@ NOBI = input(f"{white} Sec dost {reset}")
 
 if NOBI == '1':
     bbk = 900990001
-    id = 4959563
+    id = 1900000000
 elif NOBI == '2':
     bbk = 1900000000
     id = 2500000000
 elif NOBI == '3':
     bbk = 10000
-    id = 5872671
+    id = 21254029834
 else:
     exit()  
 os.system('clear') 
